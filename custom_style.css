@@ -7,3 +7,16 @@
   width: 200px !important;
   background-color: #00390f !important;
 }
+
+.chatbox-img-cont {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background-image: url("https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPOSITORY/chat-icon.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.chatbox-img-cont img {
+    display: none; /* Hide the original img */
+}
