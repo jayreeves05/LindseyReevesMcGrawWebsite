@@ -1,3 +1,7 @@
+#home-bodycontent .cover .cover-title {
+  top: 67% !important;
+}
+
 .agent-cover-image  {
   height: 200px !important; 
   width: 200px !important;
